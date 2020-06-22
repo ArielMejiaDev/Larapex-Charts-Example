@@ -14,7 +14,7 @@
     </head>
     <body class="bg-gray-200">
 
-        <div class="min-h-screen lg:min-h-0">
+        <div class="lg:h-screen lg:min-h-0 flex flex-col justify-between">
 
             <div class="container mx-auto px-4">
 
